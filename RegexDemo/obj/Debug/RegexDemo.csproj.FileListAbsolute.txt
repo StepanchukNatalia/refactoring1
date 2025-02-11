@@ -18,3 +18,13 @@ C:\Users\Asus\Pictures\lab_11\RegexDemo\obj\Debug\RegexDemo.csproj.GenerateResou
 C:\Users\Asus\Pictures\lab_11\RegexDemo\obj\Debug\RegexDemo.csproj.CoreCompileInputs.cache
 C:\Users\Asus\Pictures\lab_11\RegexDemo\obj\Debug\RegexDemo.exe
 C:\Users\Asus\Pictures\lab_11\RegexDemo\obj\Debug\RegexDemo.pdb
+C:\Users\Asus\Pictures\lab_11_\RegexDemo\bin\Debug\RegexDemo.exe.config
+C:\Users\Asus\Pictures\lab_11_\RegexDemo\bin\Debug\RegexDemo.exe
+C:\Users\Asus\Pictures\lab_11_\RegexDemo\bin\Debug\RegexDemo.pdb
+C:\Users\Asus\Pictures\lab_11_\RegexDemo\obj\Debug\RegexDemo.csproj.AssemblyReference.cache
+C:\Users\Asus\Pictures\lab_11_\RegexDemo\obj\Debug\RegexDemo.Regex.resources
+C:\Users\Asus\Pictures\lab_11_\RegexDemo\obj\Debug\RegexDemo.Properties.Resources.resources
+C:\Users\Asus\Pictures\lab_11_\RegexDemo\obj\Debug\RegexDemo.csproj.GenerateResource.cache
+C:\Users\Asus\Pictures\lab_11_\RegexDemo\obj\Debug\RegexDemo.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Pictures\lab_11_\RegexDemo\obj\Debug\RegexDemo.exe
+C:\Users\Asus\Pictures\lab_11_\RegexDemo\obj\Debug\RegexDemo.pdb
