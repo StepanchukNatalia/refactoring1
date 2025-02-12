@@ -9,7 +9,6 @@ namespace ClassLibrary
     {
         private static readonly HttpClient _httpClient = new HttpClient();
 
-        // Регулярні вирази як константи
         private static readonly string CloudsPattern = "<div class=\"description\">([А-ЯІЄа-яіє.,\\s]+)<\\/div><\\/div><div class=\"weather-item\"><div class=\"item-label\">";
         private static readonly string TemperaturePattern = @"<temperature-value value=""([+-]?\d+)"" from-unit=""c"" reactive>";
         private static readonly string WindPattern = @"<speed-value value=""([+-]?\d+)"" from-unit=""ms"" reactive>";
@@ -28,7 +27,6 @@ namespace ClassLibrary
         {
         }
 
-        // Асинхронний метод для завантаження даних
         public async Task UploadAsync(string url)
         {
             try
@@ -48,7 +46,6 @@ namespace ClassLibrary
             }
         }
 
-        // Спрощений метод для вилучення даних за допомогою регулярного виразу
         private string ExtractData(string pattern, string input, string defaultValue)
         {
             try
