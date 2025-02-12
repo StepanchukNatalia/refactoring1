@@ -24,3 +24,29 @@ C:\Users\Asus\Pictures\lab_11\WindowsFormsWeather\obj\Debug\WindowsFormsWeather.
 C:\Users\Asus\Pictures\lab_11\WindowsFormsWeather\obj\Debug\WindowsF.4841856B.Up2Date
 C:\Users\Asus\Pictures\lab_11\WindowsFormsWeather\obj\Debug\WindowsFormsWeather.exe
 C:\Users\Asus\Pictures\lab_11\WindowsFormsWeather\obj\Debug\WindowsFormsWeather.pdb
+C:\Users\Asus\Pictures\lab_11_\WindowsFormsWeather\obj\Debug\WindowsFormsWeather.csproj.AssemblyReference.cache
+C:\Users\Asus\Pictures\lab_11_\WindowsFormsWeather\obj\Debug\WindowsFormsWeather.Form1.resources
+C:\Users\Asus\Pictures\lab_11_\WindowsFormsWeather\obj\Debug\WindowsFormsWeather.Properties.Resources.resources
+C:\Users\Asus\Pictures\lab_11_\WindowsFormsWeather\obj\Debug\WindowsFormsWeather.csproj.GenerateResource.cache
+C:\Users\Asus\Pictures\lab_11_\WindowsFormsWeather\obj\Debug\WindowsFormsWeather.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Pictures\lab_11_\WindowsFormsWeather\obj\Debug\WindowsFormsWeather.exe
+C:\Users\Asus\Pictures\lab_11_\WindowsFormsWeather\obj\Debug\WindowsFormsWeather.pdb
+C:\Users\Asus\Pictures\lab_11_\WindowsFormsWeather\bin\Debug\WindowsFormsWeather.exe.config
+C:\Users\Asus\Pictures\lab_11_\WindowsFormsWeather\bin\Debug\WindowsFormsWeather.exe
+C:\Users\Asus\Pictures\lab_11_\WindowsFormsWeather\bin\Debug\WindowsFormsWeather.pdb
+C:\Users\Asus\Pictures\lab_11_\WindowsFormsWeather\bin\Debug\ClassLibrary.dll
+C:\Users\Asus\Pictures\lab_11_\WindowsFormsWeather\bin\Debug\ClassLibrary.pdb
+C:\Users\Asus\Pictures\lab_11_\WindowsFormsWeather\obj\Debug\WindowsF.4841856B.Up2Date
+D:\документи 1\lab_11_\WindowsFormsWeather\obj\Debug\WindowsFormsWeather.csproj.AssemblyReference.cache
+D:\документи 1\lab_11_\WindowsFormsWeather\obj\Debug\WindowsFormsWeather.Form1.resources
+D:\документи 1\lab_11_\WindowsFormsWeather\obj\Debug\WindowsFormsWeather.Properties.Resources.resources
+D:\документи 1\lab_11_\WindowsFormsWeather\obj\Debug\WindowsFormsWeather.csproj.GenerateResource.cache
+D:\документи 1\lab_11_\WindowsFormsWeather\obj\Debug\WindowsFormsWeather.csproj.CoreCompileInputs.cache
+D:\документи 1\lab_11_\WindowsFormsWeather\obj\Debug\WindowsFormsWeather.exe
+D:\документи 1\lab_11_\WindowsFormsWeather\obj\Debug\WindowsFormsWeather.pdb
+D:\документи 1\lab_11_\WindowsFormsWeather\bin\Debug\WindowsFormsWeather.exe.config
+D:\документи 1\lab_11_\WindowsFormsWeather\bin\Debug\WindowsFormsWeather.exe
+D:\документи 1\lab_11_\WindowsFormsWeather\bin\Debug\WindowsFormsWeather.pdb
+D:\документи 1\lab_11_\WindowsFormsWeather\bin\Debug\ClassLibrary.dll
+D:\документи 1\lab_11_\WindowsFormsWeather\bin\Debug\ClassLibrary.pdb
+D:\документи 1\lab_11_\WindowsFormsWeather\obj\Debug\WindowsF.4841856B.Up2Date

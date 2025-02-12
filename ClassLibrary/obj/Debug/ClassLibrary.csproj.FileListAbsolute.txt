@@ -10,3 +10,15 @@ C:\Users\Asus\Pictures\lab_11\ClassLibrary\obj\Debug\ClassLibrary.csproj.Assembl
 C:\Users\Asus\Pictures\lab_11\ClassLibrary\obj\Debug\ClassLibrary.csproj.CoreCompileInputs.cache
 C:\Users\Asus\Pictures\lab_11\ClassLibrary\obj\Debug\ClassLibrary.dll
 C:\Users\Asus\Pictures\lab_11\ClassLibrary\obj\Debug\ClassLibrary.pdb
+C:\Users\Asus\Pictures\lab_11_\ClassLibrary\bin\Debug\ClassLibrary.dll
+C:\Users\Asus\Pictures\lab_11_\ClassLibrary\bin\Debug\ClassLibrary.pdb
+C:\Users\Asus\Pictures\lab_11_\ClassLibrary\obj\Debug\ClassLibrary.csproj.AssemblyReference.cache
+C:\Users\Asus\Pictures\lab_11_\ClassLibrary\obj\Debug\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Pictures\lab_11_\ClassLibrary\obj\Debug\ClassLibrary.dll
+C:\Users\Asus\Pictures\lab_11_\ClassLibrary\obj\Debug\ClassLibrary.pdb
+D:\документи 1\lab_11_\ClassLibrary\bin\Debug\ClassLibrary.dll
+D:\документи 1\lab_11_\ClassLibrary\bin\Debug\ClassLibrary.pdb
+D:\документи 1\lab_11_\ClassLibrary\obj\Debug\ClassLibrary.csproj.AssemblyReference.cache
+D:\документи 1\lab_11_\ClassLibrary\obj\Debug\ClassLibrary.csproj.CoreCompileInputs.cache
+D:\документи 1\lab_11_\ClassLibrary\obj\Debug\ClassLibrary.dll
+D:\документи 1\lab_11_\ClassLibrary\obj\Debug\ClassLibrary.pdb
